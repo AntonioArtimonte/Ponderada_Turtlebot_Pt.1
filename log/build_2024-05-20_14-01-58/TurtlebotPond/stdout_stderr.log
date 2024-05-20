@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/TurtlebotPond/TurtlebotPond.egg-info/PKG-INFO
+writing dependency_links to ../../build/TurtlebotPond/TurtlebotPond.egg-info/dependency_links.txt
+writing entry points to ../../build/TurtlebotPond/TurtlebotPond.egg-info/entry_points.txt
+writing requirements to ../../build/TurtlebotPond/TurtlebotPond.egg-info/requires.txt
+writing top-level names to ../../build/TurtlebotPond/TurtlebotPond.egg-info/top_level.txt
+reading manifest file '../../build/TurtlebotPond/TurtlebotPond.egg-info/SOURCES.txt'
+writing manifest file '../../build/TurtlebotPond/TurtlebotPond.egg-info/SOURCES.txt'
+running build
+running build_py
+copying TurtlebotPond/Ponderada.py -> /home/caccioro/Documents/Ponderadas/build/TurtlebotPond/build/lib/TurtlebotPond
+running install
+running install_lib
+copying /home/caccioro/Documents/Ponderadas/build/TurtlebotPond/build/lib/TurtlebotPond/Ponderada.py -> /home/caccioro/Documents/Ponderadas/install/TurtlebotPond/lib/python3.10/site-packages/TurtlebotPond
+byte-compiling /home/caccioro/Documents/Ponderadas/install/TurtlebotPond/lib/python3.10/site-packages/TurtlebotPond/Ponderada.py to Ponderada.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/caccioro/Documents/Ponderadas/install/TurtlebotPond/lib/python3.10/site-packages/TurtlebotPond-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/TurtlebotPond/TurtlebotPond.egg-info to /home/caccioro/Documents/Ponderadas/install/TurtlebotPond/lib/python3.10/site-packages/TurtlebotPond-0.0.0-py3.10.egg-info
+running install_scripts
+Installing turtlebot script to /home/caccioro/Documents/Ponderadas/install/TurtlebotPond/lib/TurtlebotPond
+writing list of installed files to '/home/caccioro/Documents/Ponderadas/build/TurtlebotPond/install.log'

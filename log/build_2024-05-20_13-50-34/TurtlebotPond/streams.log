@@ -1,0 +1,34 @@
+[1.326s] Invoking command in '/home/caccioro/Documents/Ponderadas/src/TurtlebotPond': PYTHONPATH=/home/caccioro/Documents/Ponderadas/build/TurtlebotPond/prefix_override:/home/caccioro/Documents/Ponderadas/install/TurtlebotPond/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/TurtlebotPond build --build-base /home/caccioro/Documents/Ponderadas/build/TurtlebotPond/build install --record /home/caccioro/Documents/Ponderadas/build/TurtlebotPond/install.log --single-version-externally-managed install_data
+[1.595s] running egg_info
+[1.596s] creating ../../build/TurtlebotPond/TurtlebotPond.egg-info
+[1.596s] writing ../../build/TurtlebotPond/TurtlebotPond.egg-info/PKG-INFO
+[1.596s] writing dependency_links to ../../build/TurtlebotPond/TurtlebotPond.egg-info/dependency_links.txt
+[1.596s] writing entry points to ../../build/TurtlebotPond/TurtlebotPond.egg-info/entry_points.txt
+[1.596s] writing requirements to ../../build/TurtlebotPond/TurtlebotPond.egg-info/requires.txt
+[1.597s] writing top-level names to ../../build/TurtlebotPond/TurtlebotPond.egg-info/top_level.txt
+[1.597s] writing manifest file '../../build/TurtlebotPond/TurtlebotPond.egg-info/SOURCES.txt'
+[1.598s] reading manifest file '../../build/TurtlebotPond/TurtlebotPond.egg-info/SOURCES.txt'
+[1.599s] writing manifest file '../../build/TurtlebotPond/TurtlebotPond.egg-info/SOURCES.txt'
+[1.599s] running build
+[1.599s] running build_py
+[1.599s] creating /home/caccioro/Documents/Ponderadas/build/TurtlebotPond/build
+[1.600s] creating /home/caccioro/Documents/Ponderadas/build/TurtlebotPond/build/lib
+[1.600s] creating /home/caccioro/Documents/Ponderadas/build/TurtlebotPond/build/lib/TurtlebotPond
+[1.600s] copying TurtlebotPond/__init__.py -> /home/caccioro/Documents/Ponderadas/build/TurtlebotPond/build/lib/TurtlebotPond
+[1.600s] running install
+[1.600s] running install_lib
+[1.601s] creating /home/caccioro/Documents/Ponderadas/install/TurtlebotPond/lib/python3.10/site-packages/TurtlebotPond
+[1.601s] copying /home/caccioro/Documents/Ponderadas/build/TurtlebotPond/build/lib/TurtlebotPond/__init__.py -> /home/caccioro/Documents/Ponderadas/install/TurtlebotPond/lib/python3.10/site-packages/TurtlebotPond
+[1.602s] byte-compiling /home/caccioro/Documents/Ponderadas/install/TurtlebotPond/lib/python3.10/site-packages/TurtlebotPond/__init__.py to __init__.cpython-310.pyc
+[1.602s] running install_data
+[1.603s] creating /home/caccioro/Documents/Ponderadas/install/TurtlebotPond/share/ament_index
+[1.603s] creating /home/caccioro/Documents/Ponderadas/install/TurtlebotPond/share/ament_index/resource_index
+[1.603s] creating /home/caccioro/Documents/Ponderadas/install/TurtlebotPond/share/ament_index/resource_index/packages
+[1.603s] copying resource/TurtlebotPond -> /home/caccioro/Documents/Ponderadas/install/TurtlebotPond/share/ament_index/resource_index/packages
+[1.603s] copying package.xml -> /home/caccioro/Documents/Ponderadas/install/TurtlebotPond/share/TurtlebotPond
+[1.603s] running install_egg_info
+[1.605s] Copying ../../build/TurtlebotPond/TurtlebotPond.egg-info to /home/caccioro/Documents/Ponderadas/install/TurtlebotPond/lib/python3.10/site-packages/TurtlebotPond-0.0.0-py3.10.egg-info
+[1.606s] running install_scripts
+[1.629s] Installing turtlebot script to /home/caccioro/Documents/Ponderadas/install/TurtlebotPond/lib/TurtlebotPond
+[1.630s] writing list of installed files to '/home/caccioro/Documents/Ponderadas/build/TurtlebotPond/install.log'
+[1.665s] Invoked command in '/home/caccioro/Documents/Ponderadas/src/TurtlebotPond' returned '0': PYTHONPATH=/home/caccioro/Documents/Ponderadas/build/TurtlebotPond/prefix_override:/home/caccioro/Documents/Ponderadas/install/TurtlebotPond/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/TurtlebotPond build --build-base /home/caccioro/Documents/Ponderadas/build/TurtlebotPond/build install --record /home/caccioro/Documents/Ponderadas/build/TurtlebotPond/install.log --single-version-externally-managed install_data

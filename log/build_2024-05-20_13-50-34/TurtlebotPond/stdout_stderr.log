@@ -1,0 +1,32 @@
+running egg_info
+creating ../../build/TurtlebotPond/TurtlebotPond.egg-info
+writing ../../build/TurtlebotPond/TurtlebotPond.egg-info/PKG-INFO
+writing dependency_links to ../../build/TurtlebotPond/TurtlebotPond.egg-info/dependency_links.txt
+writing entry points to ../../build/TurtlebotPond/TurtlebotPond.egg-info/entry_points.txt
+writing requirements to ../../build/TurtlebotPond/TurtlebotPond.egg-info/requires.txt
+writing top-level names to ../../build/TurtlebotPond/TurtlebotPond.egg-info/top_level.txt
+writing manifest file '../../build/TurtlebotPond/TurtlebotPond.egg-info/SOURCES.txt'
+reading manifest file '../../build/TurtlebotPond/TurtlebotPond.egg-info/SOURCES.txt'
+writing manifest file '../../build/TurtlebotPond/TurtlebotPond.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/caccioro/Documents/Ponderadas/build/TurtlebotPond/build
+creating /home/caccioro/Documents/Ponderadas/build/TurtlebotPond/build/lib
+creating /home/caccioro/Documents/Ponderadas/build/TurtlebotPond/build/lib/TurtlebotPond
+copying TurtlebotPond/__init__.py -> /home/caccioro/Documents/Ponderadas/build/TurtlebotPond/build/lib/TurtlebotPond
+running install
+running install_lib
+creating /home/caccioro/Documents/Ponderadas/install/TurtlebotPond/lib/python3.10/site-packages/TurtlebotPond
+copying /home/caccioro/Documents/Ponderadas/build/TurtlebotPond/build/lib/TurtlebotPond/__init__.py -> /home/caccioro/Documents/Ponderadas/install/TurtlebotPond/lib/python3.10/site-packages/TurtlebotPond
+byte-compiling /home/caccioro/Documents/Ponderadas/install/TurtlebotPond/lib/python3.10/site-packages/TurtlebotPond/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/caccioro/Documents/Ponderadas/install/TurtlebotPond/share/ament_index
+creating /home/caccioro/Documents/Ponderadas/install/TurtlebotPond/share/ament_index/resource_index
+creating /home/caccioro/Documents/Ponderadas/install/TurtlebotPond/share/ament_index/resource_index/packages
+copying resource/TurtlebotPond -> /home/caccioro/Documents/Ponderadas/install/TurtlebotPond/share/ament_index/resource_index/packages
+copying package.xml -> /home/caccioro/Documents/Ponderadas/install/TurtlebotPond/share/TurtlebotPond
+running install_egg_info
+Copying ../../build/TurtlebotPond/TurtlebotPond.egg-info to /home/caccioro/Documents/Ponderadas/install/TurtlebotPond/lib/python3.10/site-packages/TurtlebotPond-0.0.0-py3.10.egg-info
+running install_scripts
+Installing turtlebot script to /home/caccioro/Documents/Ponderadas/install/TurtlebotPond/lib/TurtlebotPond
+writing list of installed files to '/home/caccioro/Documents/Ponderadas/build/TurtlebotPond/install.log'
