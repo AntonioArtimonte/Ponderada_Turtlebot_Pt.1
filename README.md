@@ -51,6 +51,7 @@ sudo apt install python3
 sudo apt-get install python3-venv
 ``` 
 
+---
 
 ## Como Executar
 
@@ -136,11 +137,3 @@ OBS: (A movimentação do robô só funciona se o mesmo está na mesma rede Wi-F
 ## Licença
 
 Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-## Contato
-
-Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato através do e-mail fornecido na configuração do pacote.
-
----
-
-Este README fornece uma visão geral básica do projeto e instruções para que usuários possam começar a usar e contribuir para o desenvolvimento do sistema de controle do robô.
