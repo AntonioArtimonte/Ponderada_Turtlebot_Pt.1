@@ -17,6 +17,8 @@ O sistema de controle do robô permite operações como conectar, desconectar, m
 
 O sistema utiliza o ROS 2 para a comunicação com o robô e implementa uma interface de linha de comando para interação com o usuário. O código é estruturado em torno de uma classe RobotController, que gerencia a conexão com o robô, envio de comandos e execução de paradas de emergência.
 
+OBS: (O código utilizado dentro do robô (bringup) está disponível para visualização neste repositório, sendo o arquivo de nome `bringup.py`, o mesmo funciona apenas dentro de um workspace do ROS2, dentro do robô. 
+
 ## Pré-requisitos
 
 - Python 3.8 ou superior
