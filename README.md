@@ -100,8 +100,10 @@ cd Ponderada_Turtlebot_Pt.1
 
 Após, rode o script para inicializar o ROS, o script a seguir além de instalar o VENV, as depências do python3, ele também ja builda e da source no código do ROS2, além de rodar o mesmo
 
+**Se o seu terminal for .zsh**
+
 ```bash
-./exec.sh
+./exec_zsh.sh
 ```
 
 Se der algum erro, execute o seguinte
@@ -113,8 +115,19 @@ chmod +x ./exec.sh
 E execute novamente
 
 ```bash
-./exec.sh
+./exec_zsh.sh
 ```
+
+**Se o seu terminal for .bash**
+
+```bash
+chmod +x ./exec_bash.sh
+```
+
+```bash
+./exec_bash.sh
+```
+
 
 Após isto, a CLI está pronta para ser utilizada.
 
